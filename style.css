@@ -1,0 +1,126 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+img.shot {
+  width: 20%;
+}
+img.shot {
+  width: 25%;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  margin-top: 119px;
+  left: 510px;
+  position: fixed;
+  z-index: -9;
+}
+section.bg {
+  background: url(https://thumbs.dreamstime.com/b/vintage-pocket-watch-background-ai-generative-design-instagram-facebook-wall-painting-wallpaper-backgrounds-image-photo-art-324273645.jpg);
+  width: 100%;
+  height: 633px;
+  z-index: -999;
+  position: fixed;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.black {
+  width: 22%;
+  height: 129px;
+  background: #141615;
+  position: fixed;
+  top: 218px;
+  border-radius: 10px;
+  left: 539px;
+}
+span.start {
+  position: fixed;
+  top: 252px;
+  left: 579px;
+  color: white;
+  z-index: 99;
+  font-size: 46px;
+}
+span.stop {
+  position: fixed;
+  top: 250px;
+  left: 662px;
+  color: white;
+  z-index: 99;
+  align-items: center;
+  font-size: 46px;
+}
+span.reset {
+  position: fixed;
+  top: 249px;
+  left: 747px;
+  color: white;
+  z-index: 99;
+  align-items: center;
+  font-size: 46px;
+}
+span.dot {
+  position: fixed;
+  top: 252px;
+  left: 640px;
+  color: white;
+  z-index: 99;
+  align-items: center;
+  font-size: 36px;
+}
+span.dot1 {
+  position: fixed;
+  top: 252px;
+  left: 722px;
+  color: white;
+  z-index: 99;
+  align-items: center;
+  font-size: 36px;
+}
+button.start-button {
+  position: fixed;
+  left: 578px;
+  top: 157px;
+  background: #c7884e;
+  z-index: 999;
+  text-align: center;
+  font-weight: 700;
+  color: white;
+  font-size: 19px;
+  width: 216px;
+  border: none;
+  height: 62px;
+  border-radius: 382px 382px 0px 0px;
+  text-transform: uppercase;
+}
+button.start-button1 {
+  position: fixed;
+  left: 581px;
+  background: transparent;
+  top: 347px;
+  width: 102px;
+  color: white;
+  font-weight: 700;
+  border: none;
+  background: #c7884e;
+  font-size: 16px;
+  text-transform: uppercase;
+  height: 61px;
+  border-radius: 0px 0px 0px 161px;
+}
+button.start-button2 {
+  position: fixed;
+  left: 689px;
+  top: 347px;
+  background: #c7884e;
+  width: 109px;
+  color: white;
+  font-weight: 700;
+  border: none;
+  font-size: 16px;
+  text-transform: uppercase;
+  height: 61px;
+  border-radius: 0px 0px 278px 8px;
+}
